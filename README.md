@@ -13,7 +13,7 @@ Before using this script, make sure you have the following requirements installe
 
 ## **Usage**
 1. Clone this repository to your local machine or download the script directly.
-2. Open the download_video.py script in a text editor or IDE.
+2. Open the main.py script in a text editor or IDE.
 3. Replace "YOUR_VIDEO_URL" with the URL of the YouTube video you want to download.
 4. Replace "PATH_WHERE_YOU_WANT_TO_SAVE_YOUR_FILE" with the desired path where you want to save the downloaded video file.
 5. Run the script using Python:
