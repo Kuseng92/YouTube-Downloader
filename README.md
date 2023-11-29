@@ -29,3 +29,6 @@ Feel free to contribute to this project by submitting issues or pull requests. I
 
 ## **License**
 This project is licensed under the MIT License.
+
+## **Project inspired by**
+[florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
